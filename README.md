@@ -1,1 +1,1 @@
-# 6th-Sem-CN_Lab
+# 6th Sem CN Lab
